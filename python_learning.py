@@ -81,8 +81,3 @@ print(lesson)
 
 #Sequence Type Data
 
-d = "Done"
-print(d)
-
-name = "Shanto"
-print("Hello", name)
