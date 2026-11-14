@@ -1,6 +1,6 @@
  Days of Python
 
-enter">
+
   <img src="https://img.shields.io/badge/Python-Learning-blue?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Challenge-100%2B%20Days-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge" />
