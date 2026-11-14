@@ -80,4 +80,22 @@ lesson=('NoneType is the data type of the keyword None, which represents the int
 print(lesson)
 
 #Sequence Type Data
+#list Type Data
 
+li= ['Mehedi','Hasan','Shanto']
+
+li[0]='Shanto'
+
+print(li)
+print(type(li))
+
+#tuple type data
+tup=(5,6,7,8,9)
+print(type(tup))
+
+#range type data
+
+ran=range(6);
+for i in ran:
+    print(i)
+      
